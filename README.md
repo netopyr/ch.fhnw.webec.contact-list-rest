@@ -11,10 +11,14 @@ First steps with the RestController
 1. Extend the REST-Interface to get a single contact by ID
 
 ## Assignment 2
-1. Add the possibility to search for a contact by name via the REST-interface
-   * The required functionality is already provided in ContactService
+1. Write an integration tests for the REST-interface from assignment 1
 
 ## Assignment 3
+1. Add the possibility to search for a contact by name via the REST-interface
+   * The required functionality is already provided in ContactService
+1. Write a simple integration test for the new functionality
+
+## Assignment 4
 1. Extend the REST-interface with possibilities to create, update, and delete contacts
    * Which HTTP status code should be returned if a resource cannot be found?
    * Which one should be returned if a resource is created?
